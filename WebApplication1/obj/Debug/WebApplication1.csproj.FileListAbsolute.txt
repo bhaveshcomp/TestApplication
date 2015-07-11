@@ -11,11 +11,7 @@ C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.dll
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.dll
-C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Newtonsoft.Json.dll
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Owin.dll
@@ -44,12 +40,8 @@ C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.AspNet.Id
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.xml
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.xml
-C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\bhavesh\Desktop\TestApplication\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
